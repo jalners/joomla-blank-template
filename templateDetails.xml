@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template" client="site">
+
+	<name>joomla-blank-template</name>
+	<creationDate>29/05/13</creationDate>
+	<author>Alexey Neretin</author>
+	<authorEmail>jalners@yandex.ru</authorEmail>
+	<authorUrl></authorUrl>
+	<copyright>Copyright (C) 2013 All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<version>1.0.0</version>
+	<description>joomla-blank-template style</description>
+	<files>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+
+	<positions>
+		<position>header</position>
+		<position>footer</position>
+	</positions>
+
+</extension>
